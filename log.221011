@@ -1,0 +1,11 @@
+total 36
+drwxrwxr-x 2 tha_lt tha_lt 4096 Oct 11 14:03 .
+drwxrwxr-x 3 tha_lt tha_lt 4096 Oct  9 21:27 ..
+-rw-rw-r-- 1 tha_lt tha_lt    0 Oct 11 14:03 log.221011
+-rwxrw-r-- 1 tha_lt tha_lt  104 Oct  9 21:36 test1
+-rwxrw-r-- 1 tha_lt tha_lt  139 Oct  9 21:53 test2
+-rwxrw-r-- 1 tha_lt tha_lt   45 Oct  9 21:55 test3
+-rwxrw-r-- 1 tha_lt tha_lt   87 Oct 11 11:19 test3.1
+-rwxrw-r-- 1 tha_lt tha_lt   73 Oct 11 13:22 test4
+-rwxrw-r-- 1 tha_lt tha_lt   93 Oct 11 13:31 test5
+-rwxrw-r-- 1 tha_lt tha_lt   76 Oct 11 14:03 test6
